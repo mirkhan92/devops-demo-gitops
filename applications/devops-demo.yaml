@@ -9,7 +9,7 @@ spec:
 
   source:
     repoURL: https://github.com/mirkhan92/devops-demo-gitops.git
-    targetRevision: main
+    targetRevision: HEAD
     path: helm
 
   destination:
